@@ -1,0 +1,2 @@
+# 3dmode
+obj glb
